@@ -1,5 +1,5 @@
 # APTree
-Simple dependency tree renderer for the apt package manager.
+GUI flowcharting tool for apt package dependencies
 
 ## Setting up
 
