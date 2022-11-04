@@ -1,0 +1,11 @@
+{
+  "enabled": {
+    "depends": true,
+    "predepends": true,
+    "recommends": true,
+    "conflicts": true,
+    "suggests": true,
+    "breaks": false,
+    "replaces": true
+  }
+}
